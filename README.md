@@ -1,2 +1,2 @@
-# krita-studio
-krita-studio (krita plugins)
+# mua studio
+mua studio (krita plugins)
