@@ -1,5 +1,5 @@
 # mua studio
-mua studio (krita plugins)
+> mua studio (krita plugins)
 
 
 
